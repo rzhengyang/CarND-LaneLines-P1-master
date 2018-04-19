@@ -38,7 +38,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![result](test_images_output\output solidYellowCurve2.jpg)
+![result](https://github.com/rzhengyang/CarND-LaneLines-P1-master/blob/master/test_images_output/output%20solidYellowCurve2.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
