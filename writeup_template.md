@@ -30,7 +30,6 @@ My pipeline consisted of 5 steps.
 * Canny function to figure out edge
 * Defined a vertices and find out region_of_interest
 * Use hough transform find hough_lines and drawlines put into img.
-*
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by figure out the max and min X Y position in line. Then connect this two points.
 
@@ -38,7 +37,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![result](https://github.com/rzhengyang/CarND-LaneLines-P1-master/blob/master/test_images_output/output%20solidYellowCurve2.jpg)
+![result](test_images_output\output solidYellowCurve2.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
